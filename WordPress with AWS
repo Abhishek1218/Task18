@@ -1,0 +1,46 @@
+#You can follow the link for your ease(https://rb.gy/9pd03m)
+
+Here is the step by step guide to do this task
+
+➡️First we have to launch an EC2 instance:
+
+
+➡️Next , in the instance we have to launch HTTD software
+
+
+➡️In the next step , we have to install php7.2 software for WordPress
+
+
+➡️In the next step we have to go to document root of httpd (/var/www/html) and have to download and install WordPress
+
+
+➡️In the next step , untar it by using tar -xvzf latest.tar.gz command
+
+➡️Now , start httpd service and enable it
+
+
+➡️Next we have to install mysql
+
+
+➡️Go to Amazon RDS and launch a MySQL database
+
+
+➡️We have to give Public access to the database
+
+
+➡️Now we have to connect our instance to the database, by using database command
+
+
+➡️Now create a database in it
+
+
+➡️In the next step edit the wp-config.php file and there we have to put password, database name, hostname and the user endpoint
+
+
+➡️And hence the output is generated
+
+
+➡️login to WordPress
+
+
+#Task completed successfully
